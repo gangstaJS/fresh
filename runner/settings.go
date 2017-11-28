@@ -9,7 +9,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/pilu/config"
+	"github.com/gangstaJS/fresh/runnerconfig"
 )
 
 const (

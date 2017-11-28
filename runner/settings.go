@@ -127,6 +127,10 @@ func buildPath() string {
 	return p
 }
 
+func argName() string {
+	return settings["args"]
+}
+
 func buildErrorsFileName() string {
 	return settings["build_log"]
 }
